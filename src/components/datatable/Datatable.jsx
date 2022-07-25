@@ -1,5 +1,5 @@
 import './datatable.scss';
-import { DataGrid, GridColDef, GridValueGetterParams } from '@mui/x-data-grid';
+import { DataGrid } from '@mui/x-data-grid';
 import { userColumns, userRows } from '../../datatablesource';
 
 const Datatable = () => {
