@@ -28,7 +28,14 @@
 7. Context API
     - Was mainly used to implement the Dark Mode / Light Mode features without actualling passing the props in each component.
 
-## 2. How to install ?
+## 3. Application's Screenshots
+
+#### Dashboard (LightMode)
+    ![Dashboard - Light Mode](./assets/images/dashboard-light-mode.PNG)
+
+## 4. Future Scope
+
+## 5. How to install ?
 
 1. Download / Clone the repository to your device.
 2. Open the terminal in that folder.
