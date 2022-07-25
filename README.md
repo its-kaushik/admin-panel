@@ -30,10 +30,22 @@
 
 ## 3. Application's Screenshots
 
-#### Dashboard (LightMode)
-    ![Dashboard - Light Mode](./assets/images/dashboard-light-mode.PNG)
+### Dashboard (LightMode)
+
+![Dashboard - Light Mode](./assets/images/dashboard-light-mode.PNG)
+
+![Dashboard - Light Mode](./assets/images/dashboard-dark-mode.PNG)
+
+![Dashboard - Light Mode](./assets/images/users-list.PNG.PNG)
+
+![Dashboard - Light Mode](./assets/images/add-new-user-form.PNG.PNG)
+
 
 ## 4. Future Scope
+
+- Integrate an actual database with the webapp.
+- Secure the routes / links with Firebase.
+- Adding login and authentication functionality.
 
 ## 5. How to install ?
 
