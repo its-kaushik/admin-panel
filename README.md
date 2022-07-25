@@ -3,7 +3,7 @@
 
 ## 1. What is Kadmin ?
 
-Kadmin is a ReactJS based Admin Dashboard, which can be integrated with other applications to administer the web app. It has vaious widget like,
+- Kadmin is a ReactJS based Admin Dashboard, which can be integrated with other applications to administer the web app. It has vaious widget like,
     - See last month's sale.
     - See last 6 month's sale.
     - See the list of all customers.
